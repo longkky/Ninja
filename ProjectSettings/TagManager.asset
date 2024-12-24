@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Deadly
+  - EnemyWall
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enviment
+    uniqueID: 3488413187
+    locked: 0
+  - name: Background
+    uniqueID: 1455370397
+    locked: 0
+  - name: Platform
+    uniqueID: 3109810877
+    locked: 0
+  - name: Ground
+    uniqueID: 1927615709
+    locked: 0
+  - name: SavePoint
+    uniqueID: 2025974899
+    locked: 0
+  - name: Enemy
+    uniqueID: 530966491
+    locked: 0
+  - name: Player
+    uniqueID: 3544909693
+    locked: 0
+  - name: Coin
+    uniqueID: 1665909763
+    locked: 0
+  - name: UI
+    uniqueID: 10841169
+    locked: 0
